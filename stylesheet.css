@@ -1,0 +1,19 @@
+html {
+	height:  100%;
+	background-image: url('pictures/geometric.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+body {
+	background-color:  transparent;
+}
+
+#transparent {
+	width: 550px;
+	padding: 20px;
+	margin-top: 5%;
+	background: rgba(255, 255, 255, 0.9);
+	box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.4);
+}
